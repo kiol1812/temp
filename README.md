@@ -15,3 +15,13 @@ npx prisma migrate dev --preview-feature # and then give a name
 ```
 npx prisma studio
 ```
+
+! use
+1. show database
+```
+npx prisma studio
+```
+2. run web test
+```
+npm run dev
+```
